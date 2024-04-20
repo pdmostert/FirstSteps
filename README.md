@@ -1,10 +1,11 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+**First Steps** is my typical "Hello World" application.
 
-{Provide a description of the software that you wrote to demonstrate the C# language.}
+This application is a console application that prints the famous "Hello World" message to the console.
 
-{Describe your purpose for writing this software.}
+The purpose that most developers and my self find ourselves creating this basic application is to test the development environment and the programming language.
+
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
@@ -12,16 +13,16 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+Visual Studio 2022
 
-{Describe the programming language that you used and any libraries.}
+C# and .NET 8
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [I Am Tim Corey](https://www.youtube.com/user/IAmTimCorey)
+- [W3 Schools](https://www.w3schools.com/cs/index.php)
 
 # Future Work
 
