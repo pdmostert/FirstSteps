@@ -4,19 +4,17 @@
 
 This application is a console application that prints the famous "Hello World" message to the console.
 
-The purpose that most developers and my self find ourselves creating this basic application is to test the development environment and the programming language.
+The purpose why most developers and my self included find ourselves creating this basic application is to test the development environment and the programming language.
+The questions we ask ourselves is "Does it build?", "Does it run?", "Is the output what I expected?".
 
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/Dnn1EasYY5E )
 
 # Development Environment
 
-Visual Studio 2022
-
-C# and .NET 8
-
+* Visual Studio 2022
+* C# and .NET 8
+* Git / Github
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
@@ -26,8 +24,8 @@ C# and .NET 8
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
+There is no future work for improvement on this project as it is a basic application.
 
-- Item 1
-- Item 2
-- Item 3
+```csharp
+Console.WriteLine("Hello, World!");
+```
