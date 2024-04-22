@@ -15,9 +15,8 @@ The questions we ask ourselves is "Does it build?", "Does it run?", "Is the outp
 * Visual Studio 2022
 * C# and .NET 8
 * Git / Github
-# Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+# Useful Websites
 
 - [I Am Tim Corey](https://www.youtube.com/user/IAmTimCorey)
 - [W3 Schools](https://www.w3schools.com/cs/index.php)
